@@ -116,3 +116,13 @@ Your private key is never written to `.env`; it lives encrypted in `~/.foundry/k
 This tool signs transactions with a key it stores in an encrypted keystore under `~/.foundry/keystores` - use a testnet burner wallet, never one with real funds. The deposit you lock funds the agent's scheduled runs and is spent over time - it is not recoverable on a whim. This is testnet software, provided as-is, without warranty, and has not been audited. Use at your own risk.
 
 Released under the **MIT License**. Built by [Zun](https://x.com/Zun2025).
+---
+
+## My Deployment
+
+- **Agent Address:** 0x958C131b2c910361030bA543fE4317775A3DC9c8
+- **Owner Wallet:** 0x9129Ae44e70eefD31D467692fC70c56C5EC6a978
+- **Network:** Ritual Testnet (Chain ID: 1979)
+- **Status:** Live and armed
+- **Deployed by:** [Manablaq](https://github.com/Manablaq)
+
